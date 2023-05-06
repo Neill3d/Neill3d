@@ -11,7 +11,7 @@
 
 [Youtube channel Neill3d](https://www.youtube.com/Neill3d)
 
-[Discord server for Animation And Programming](https://discord.gg/REcDUkGC)
+[Discord server for Animation And Programming](https://discord.gg/EU5E2p9VCf)
 
 <!--
 **Neill3d/Neill3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
