@@ -8,6 +8,7 @@
  - MoPlugs - a huge development for "The Wall" film for Canadian Film Board
  - ACT - my sharing from development at Avalanche Studios
  - openfbx, fbx - forks of repositories that I contribute to improve an fbx open source import/export
+ - Technocrane - UE and MotionBuilder plugins, webassembly tool for raw stream trimmer and export into fbx, toolset
 
 [Youtube channel Neill3d](https://www.youtube.com/Neill3d)
 
