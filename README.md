@@ -10,6 +10,9 @@
  - openfbx, fbx - forks of repositories that I contribute to improve an fbx open source import/export
  - Technocrane - UE and MotionBuilder plugins, webassembly tool for raw stream trimmer and export into fbx, toolset
 
+![Neill3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=neill3d&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neill3d&hide_progress=true)
+
 [Youtube channel Neill3d](https://www.youtube.com/Neill3d)
 
 [Discord server for Animation And Programming](https://discord.gg/EU5E2p9VCf)
